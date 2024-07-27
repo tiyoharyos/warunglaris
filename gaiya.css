@@ -1,0 +1,50 @@
+body{
+    background-color:#eff0f0 ;
+}
+.jumbotron{
+     padding-top: 5rem ;
+ }
+ .jumbotron1{
+     padding-top: 6rem ;
+     background-color: #000000;
+ }
+ 
+#column_padding{
+    padding-left:2%;
+}
+td a {
+    text-decoration:none;
+    color:#0033CC;
+}
+td a:hover{
+    color:yellow;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+#rowHover:hover {
+    background:#028a7396;;
+}
+#removeborder{
+    border:0px;
+    height:35px;
+}
+.form{
+    margin:0px;
+    margin-left:15px;
+}
+input[type="text"]{
+    width:95%;
+}
+input[type="radio"]{
+    width:20%;
+}
+.tableadd {
+    background:#CCCCCC;
+    padding:20px;
+    border:solid 1px;
+}
+#berhasil {
+    width:20%;
+    background:#009933;
+    color:#fff;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
